@@ -69,7 +69,7 @@ print('''\r\n
 │     viewbot, comment liker, followbot, video liker  │
 └─────────────────────────────────────────────────────┘\r\n''')
 
-video = input('Video Link: ') # video link input
+video = input(https://www.tiktok.com/@qwwu/video/7086267320632462638?is_from_webapp=1&sender_device=pc&web_id=7086661240592467499) # video link input
 print("Solve the Captcha!") # captcha alert
 time.sleep(6) # just time sleep for people to read the captcha alert
 vid  = video # video link
